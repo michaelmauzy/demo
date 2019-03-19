@@ -5,7 +5,7 @@
   "arTarget": {
     "@type": "ARImageTarget",
     "name" : "The Third Man trailer",
-    "image": "TARGET IMAGE"
+    "image": "demo/Third-man-still.png"
   },
   "arPlacement": {
     "@type": "ARPlanarReplacement",
@@ -13,8 +13,8 @@
   },
   "arContent": {
     "@type": "VideoObject",
-    "name": "arContent.name",
-    "contentUrl": "REPLACING_VIDEO_URL",
+    "name": "Starting on the first frame of the video, The Third Man trailer plays",
+    "contentUrl": "demo/Third-man-trailer.mp4",
     "image": "arContent.image",
     "url": "URL",
     "publisher": {
